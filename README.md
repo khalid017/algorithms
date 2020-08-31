@@ -1,2 +1,2 @@
 # algorithms
-assignment algorithms
+assignment algorithms of singly linkedlist
